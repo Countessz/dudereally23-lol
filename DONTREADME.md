@@ -1,0 +1,3 @@
+- 👋 Yo, I’m @dudereally23-lol
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning discord.js
